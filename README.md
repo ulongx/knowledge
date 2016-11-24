@@ -3,6 +3,7 @@
 
 ## 教程资源
 ### 综合类
+* [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
 * [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
 * [前端知识结构](https://github.com/JacksonTian/fks)
 * [Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)
@@ -34,3 +35,7 @@
 * [Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 * [Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
 * [Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+
+### 效果类
+* [弹出层](http://www.imooc.com/learn/58)
+* [焦点图轮播特效](http://www.imooc.com/learn/18)
