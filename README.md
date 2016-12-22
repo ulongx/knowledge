@@ -39,3 +39,12 @@
 ### 效果类
 * [弹出层](http://www.imooc.com/learn/58)
 * [焦点图轮播特效](http://www.imooc.com/learn/18)
+
+### 工具类
+* [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+* [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
+* [Grunt-beginner前端自动化工具](http://www.imooc.com/learn/30)
+
+### 慕课教程
+* [碧仔 - Hello，移动WEB](http://www.imooc.com/learn/494)
+* [张鑫旭 - web前端系列课程](http://www.imooc.com/u/197450/courses?sort=publish)
