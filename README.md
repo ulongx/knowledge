@@ -4,6 +4,7 @@
 ## 教程资源
 ### 综合类
 * [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
+* [函数式编程](http://www.infoq.com/cn/fp/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
 * [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
 * [前端知识结构](https://github.com/JacksonTian/fks)
 * [Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)
@@ -41,10 +42,51 @@
 * [焦点图轮播特效](http://www.imooc.com/learn/18)
 
 ### 工具类
-* [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+GitHub
+
 * [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
+* [git-scm](http://git-scm.com/)
+* [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [git-for-windows](https://git-for-windows.github.io/)
+* [GitHub 添加 SSH keys](http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github/)
+* [gogithub](http://www.worldhello.net/gotgithub/index.html)
+* [git常规命令练习](http://pcottle.github.io/learnGitBranching/)
+* [git的资料整理](https://github.com/xirong/my-git)
+* [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)
+* [企业开发git工作流模式探索部分休整](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+* [GitHub 漫游指南](https://github.com/phodal/github-roam)
+* [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+* [使用git和github进行协同开发流程](http://livoras.com/post/28)
+* [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
+
+其他
+
 * [Grunt-beginner前端自动化工具](http://www.imooc.com/learn/30)
+* [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+
 
 ### 慕课教程
 * [碧仔 - Hello，移动WEB](http://www.imooc.com/learn/494)
 * [张鑫旭 - web前端系列课程](http://www.imooc.com/u/197450/courses?sort=publish)
+* [Lyn 系列教程](http://www.imooc.com/u/104593/courses?sort=publish)
+
+### infoq技术报
+* [HTML5](http://www.infoq.com/cn/html-5?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
+* [JavaScript](http://www.infoq.com/cn/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
+* [前端](http://www.infoq.com/cn/Front-end/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
+
+
+## 开发库(API)
+### 综合
+* [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* [chrome开发中心（chrome的内核已转向blink）](https://developer.chrome.com/extensions/api_index.html)
+* [safari开发中心](https://developer.apple.com/library/safari/navigation)
+* [microsoft js参考](https://msdn.microsoft.com/zh-cn/library/d1et7k7c\(v=vs.94)
+* [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+* [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [w3help综合Bug集合网站](http://www.w3help.org/)
+* [javascripting](http://www.javascripting.com/)
+* [各种流行库搜索](http://microjs.com/)
+* [runoob.com-包含各种API集合](http://www.runoob.com/)
+* [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
+* [devdocs 英文综合API网站](http://devdocs.io/)
